@@ -1,0 +1,10 @@
+gsap is an javascript library which is used to make animations
+gsap stands for greensock animation platform
+gsap is used to make moving animations
+gsap.to():-it is used when we want to move our animation from initial to final position
+gsap.from():-here animation comes from final to initial opposite of to
+we can write every prprty of css in {} in camelcase
+stragger tab use hota hai jab same naam ke bahut cheeze pe ek ek karkr animation lagana ho
+repeat:-1,//ab animation infinite time tak chalega
+yoyo:true//jahaan se gaya fir wahi aa jaayega
+timeline is used to run code symchronized pahle ek chale fir dusra
